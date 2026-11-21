@@ -25,10 +25,9 @@ The license covers:
 
 ## Team Members
 - Zilan Lin
-- Partner: TBD
+- Partner: Lorenzo
 
 ## Course Information
 - Course: CEP146 - Essential Tooling
 - Lab: Lab 10 - Software Licensing
 - Semester: Fall 2026
-  
