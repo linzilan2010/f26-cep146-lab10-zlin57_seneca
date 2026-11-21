@@ -2,7 +2,8 @@
 
 ## Emotion Recognition AI - Custom License
 
-**Creators:** Zilan Lin and [Partner Name]  
+**Creators:** Zilan Lin and Lorenzo
+
 **Project:** Emotion Recognition AI  
 **Version:** 1.0
 
@@ -45,8 +46,8 @@ Our license balances flexibility with responsibility. It allows people to build 
 
 ## Team Contributions
 
-- **Zilan Lin:** [Describe your actual contribution]
-- **[Partner Name]:** [Describe your partner's actual contribution]
+- **Zilan Lin:** Helped design the custom AI license, discussed the license terms, and wrote the explanation.
+- **Lorenzo:** Helped review the license terms and suggested improvements.
 
-**Collaboration:** [Briefly describe how you discussed and agreed on the license terms.]
+**Collaboration:** We discussed the main rules of our AI license and agreed on how people could use, modify, and share AI-generated content.
   
